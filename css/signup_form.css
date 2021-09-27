@@ -1,0 +1,61 @@
+body {
+    font-family : "McLaren", sans-serif;
+    background : linear-gradient(to right, #D3D3D3, #808080);
+}
+
+h2 {
+	position : relative;
+	top : 4%; left : 39%;
+	height : 120px; width : 500px;
+	font-size : 90px;
+}
+
+section {
+    position : absolute;
+    height : 900px; width : 1500px;
+    margin : -450px 0px 0px -750px;
+    top : 39%; left : 50%;
+    font-size : 30px;
+}
+
+input {
+	height : 50px; width : 475px;
+    padding : 7px; 
+    background-color : rgba(252, 249, 249, 0.3);
+    border : solid white;
+    border-radius : 50px;
+}
+
+input::placeholder {
+    color: white;
+    font-family : "McLaren", sans-serif;
+    font-size: 25px;
+ }
+
+.col1, .col2 {
+	position : relative;
+	left : 34%;
+	height : 50px; width : 475px;
+	font-size: 25px;
+}
+
+.double_check {
+	position : absolute;
+	top : 37%; left : 68%;
+	height : 50px; width : 200px;
+    border-radius : 30px;
+}
+
+.save{
+	position : absolute;
+	top : 93%; left : 24%;
+	height : 130px; width : 400px;
+    border-radius : 50px;
+}
+
+.reset {
+	position : absolute;
+ 	top : 93%; left : 52%;
+	height : 130px; width : 400px;
+    border-radius : 50px;
+}
