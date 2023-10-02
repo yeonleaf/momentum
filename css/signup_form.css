@@ -1,0 +1,10 @@
+body {
+    font-family : "McLaren", sans-serif;
+    background : linear-gradient(to right, #D3D3D3, #808080);
+}
+
+.btn {
+    height : 50px;
+    width : 150px;
+    object-fit: cover;
+}

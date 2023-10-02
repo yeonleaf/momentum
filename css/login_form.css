@@ -1,0 +1,13 @@
+body {
+    font-family : "McLaren", sans-serif;
+    background : linear-gradient(to right, #B0E0E6, #4169E1);
+}
+
+#log_btn, #sign_btn {
+    height : 50px;
+    width : 100px;
+    object-fit: cover;
+}
+
+
+
